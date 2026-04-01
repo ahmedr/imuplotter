@@ -7,6 +7,8 @@ Deploy with: streamlit run streamlit_imu_plotter.py
 import streamlit as st
 import pandas as pd
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from io import BytesIO
 import base64
