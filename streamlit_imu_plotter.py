@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Streamlit IMU Data Plotter - Interactive web-based visualization
-Deploy with: streamlit run streamlit_imu_plotter.py
+Author: A. Rahiim
+Date: 31 MAR '26
+Purpose: Interactive web-based visualization of IMU data via Streamlit.
 """
 
 import streamlit as st
